@@ -12,9 +12,7 @@ import time
 
 import pywifi
 from pywifi import const
-#To work with wireless interfaces
-#https://pypi.org/project/pywifi/
-#https://github.com/awkman/pywifi/blob/master/DOC.md
+
 
 
 # In[ ]:
